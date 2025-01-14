@@ -21,7 +21,10 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between; align-items: center;">
+
+<div style="padding:20px">
 <img src="https://github-readme-stats.vercel.app/api?username=profcode-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+</div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=profcode-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Streak" />
 </div>
 
