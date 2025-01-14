@@ -35,13 +35,13 @@
 <a href="https://x.com/hossamelsawy00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ffff" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Hossam.Elsawy66/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hossam.elsawy66/" height="30" width="40" /></a>
 <span style="font-size: 24px;text-shadow: 0 0 10px rgba(128, 0, 128, 0.8), 0 0 20px rgba(128, 0, 128, 0.6);">|</span>
-<a href="https://www.behance.net/sdfsdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sdfsdf" height="30" width="40" /></a>
+<a href="https://www.behance.net/hossamelsawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sdfsdf" height="30" width="40" /></a>
 <a href="https://instagram.com/elsawy998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elsawy998" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Prof_Code990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@prof_code990" height="30" width="40" /></a>
 <span style="font-size: 24px;text-shadow: 0 0 10px rgba(128, 0, 128, 0.8), 0 0 20px rgba(128, 0, 128, 0.6);">|</span>
-<a href="https://stackoverflow.com/users/wefe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wefe" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dfdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dfdf" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dfdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dfdf" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14737275/hossam-elsawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wefe" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/hossamelsawy745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dfdf" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/profcode-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dfdf" height="30" width="40" /></a>
 </p>
 
 <picture>
