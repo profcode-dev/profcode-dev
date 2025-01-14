@@ -21,8 +21,8 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=profcode-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Hossam's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profcode-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=profcode-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Hossam's GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profcode-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 
 
