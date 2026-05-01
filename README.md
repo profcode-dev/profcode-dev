@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=26&letterSpacing=&pause=1000&color=610000&center=true&vCenter=true&width=435&lines=Dr.Vixar" alt="Typing SVG" ></h1>
+<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=26&letterSpacing=&pause=1000&color=5788ac&center=true&vCenter=true&width=435&lines=Dr.Vixar" alt="Typing SVG" ></h1>
 
 <p>
     <a href="https://github.com/profcode-dev" target="_blank">
@@ -23,8 +23,8 @@
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,kali,vscode,pycharm,mysql,js,html,css,python,cpp,git,github&theme=dark" />
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&pause=1000&color=144E11&center=true&vCenter=true&width=435&lines=hacking+.+.+.;CTF+.+.+.;OSCP+.+.+.+" alt="Typing SVG" /></a>
+        <img src="https://skillicons.dev/icons?i=linux,kali,vscode,pycharm,mysql,js,html,css,python,cs,git,github&theme=dark" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&pause=1000&color=6eb1bd&center=true&vCenter=true&width=435&lines=hacking+.+.+.;CTF+.+.+.;OSCP+.+.+.+" alt="Typing SVG" /></a>
 </div>
 
 <br>
